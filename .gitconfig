@@ -1,0 +1,5 @@
+[user]
+	email = kiss@example.com
+	name = KI3070
+[credential]
+	helper = store
